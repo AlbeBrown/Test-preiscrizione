@@ -1,0 +1,63 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  color: white;
+}
+
+.container{
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 20px;
+
+}
+
+.container{
+ width: 1000px;
+ padding: 100px;
+ margin: auto;
+}
+
+.logo{
+  width: 250px;
+  position: relative;
+  left: 380px;
+}
+
+.riquadro{
+  background-color: green;
+  width: 840px;
+  height: 20px;
+  margin: 30px;
+  padding: 20px;
+  border-style: hidden;
+  position: relative;
+  top: 25px;
+  left: 30px
+}
+
+
+.goldenrod{
+  width: 200px;
+  height: 20px;
+  background-color: goldenrod;
+  border: 10px;
+}
+
+.green{
+  width: 500px;
+  height: 20px;
+  background-color: green;
+  border: 10px;
+}
+
+.red{
+  width: 100px;
+  height: 20px;
+  background-color: red;
+  border: 10px;
+}
+
+#name-input{
+  font-size: 23px;
+  font-family: verdana;
+  font-weight: 780;
+}
